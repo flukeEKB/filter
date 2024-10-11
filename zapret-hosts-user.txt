@@ -32,3 +32,4 @@ discordstatus.com
 dis.gd
 discord.co
 discord-attachments-uploads-prd.storage.googleapis.com
+https://rutracker.org/
