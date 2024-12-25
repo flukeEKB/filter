@@ -23,3 +23,8 @@ discord.co
 discord-attachments-uploads-prd.storage.googleapis.com
 rutracker.org
 github.com
+yt4.ggpht.com 
+ytimg.l.google.com 
+nhacmp3youtube.com 
+googleapis.com 
+gstatic.com 
